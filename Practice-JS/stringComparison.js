@@ -2,6 +2,8 @@ let a = "abc"; //String Literal
 let b = String ("abc"); // String
 let c = new String("abc"); // object representation
 
+//NOTE --> STRINGS ARE IMMUTABALE, hence cant be updated
+
 console.log(typeof a);
 console.log(typeof b);
 console.log(typeof c);
